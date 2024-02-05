@@ -26,7 +26,7 @@ Create beautiful photo mosaics using a collection of image tiles with this Pytho
 2. **Install the required dependencies:**
 
    ```bash
-   pip install PySimpleGUI scipy numpy
+   pip install PySimpleGUI scipy numpy pillow
    ```
 
 ## Usage
